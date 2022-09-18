@@ -24,6 +24,7 @@
 
 <img src="Horiseon Screenshot.jpg" alt="screenshot of website">
 <img src="Horiseon Screenshot 2.jpg" alt="screenshot 2 of website">
+<img src="images\Horiseon Screenshot 2.jpg" alt="screenshot 2">
 
 
 
