@@ -22,7 +22,7 @@
 
 ## Images added
 
-<img src="images\Horiseon Screenshot.jpg>" alt="screenshot">
+<img src="images\Horiseon Screenshot.jpg" alt="screenshot">
 <img src="images\Horiseon Screenshot 2.jpg" alt="screenshot 2">
 
 
